@@ -1,0 +1,75 @@
+# This workflow will build and
+/system/bin/toybox
+/vendor/bin/toybox_vendor
+Copyright (C) 2006, 2019 by Rob Landley <rob@landley.net>
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Notices for file(s):
+/recovery/root/system/bin/update_engine_sideload
+/recovery/root/system/lib64/libdl.so
+/recovery/root/system/lib64/libhidlbase.so
+/system/bin/hwservicemanager
+/system/bin/update_engine
+/system/bin/wificond
+/system/fonts/Roboto-Black.ttf
+/system/fonts/Roboto-BlackItalic.ttf
+/system/fonts/Roboto-Bold.ttf
+/system/fonts/Roboto-BoldItalic.ttf
+/system/fonts/Roboto-Italic.ttf
+/system/fonts/Roboto-Light.ttf
+/system/fonts/Roboto-LightItalic.ttf
+/system/fonts/Roboto-Medium.ttf
+/system/fonts/Roboto-MediumItalic.ttf
+/system/fonts/Roboto-Regular.ttf
+/system/fonts/Roboto-Thin.ttf
+/system/fonts/Roboto-ThinItalic.ttf
+/system/fonts/RobotoCondensed-Bold.ttf
+/system/fonts/RobotoCondensed-BoldItalic.ttf
+/system/fonts/RobotoCondensed-Italic.ttf
+/system/fonts/RobotoCondensed-Light.ttf
+/system/fonts/RobotoCondensed-LightItalic.ttf
+/system/fonts/RobotoCondensed-Medium.ttf
+/system/fonts/RobotoCondensed-MediumItalic.ttf
+/system/fonts/RobotoCondensed-Regular.ttf
+/system/framework/static/guava.jar
+/system/framework/static/setupdesign.jar
+/system/framework/static/volley.jar
+/system/lib/bootstrap/libdl.so
+/system/lib/bootstrap/libdl_android.so
+/system/lib/libbpf.so
+/system/lib/libdl.a
+/system/lib/libdl_android.a
+/system/lib/libdl_static.a
+/system/lib/libdynamic_depth.so
+/system/lib/libhidlbase.so
+/system/lib/libhidltransport.so
+/system/lib/libhwbinder-impl-internal.a
+/system/lib/libhwservicemanager.a
+/system/lib/libimage_io.so
+/system/lib/libpayload_consumer.a
+/system/lib/libsonic.so
+/system/lib/libtokenmanager.a
+/system/lib/libupdate_engine_android.a
+/system/lib/libupdate_engine_boot_control.a
+/system/lib/libvintf.so
+/system/lib/libwificond.a
+/system/lib/libwificond_event_loop.a
+/system/lib/libwificond_ipc.a
+/system/lib/libwificond_nl.a
+/system/lib/update_metadata-protos.a
+/system/lib64/bootstrap/libdl.so
+/system/lib64/bootstrap/libdl_android.so
+/system/lib64/libbpf.so
+/system/lib64/libdl.a
+/system/lib64/libdl_android.a
+/system/lib64/libdl_android.ramdisk
