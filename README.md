@@ -106,4 +106,4 @@ You can click the Preview link to take a look at your changes.
 --->
 git remote add origin https://github.com/deyvid61/play.git
  git branch -M main 
-git push -u origin main
+git push -u origin https://github.com/deyvid61/bitcoin
