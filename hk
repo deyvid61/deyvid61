@@ -1,0 +1,69 @@
+/etc/cron.daily/drweb-update:<br />
+خطا: Dr.Web Updater: دانلود فایل‌ها ناموفق بود!<br />
+‎اجرای-پارت‌ها: /etc/cron.daily/drweb-update با کد بازگشتی ۱۰۵ خارج شد<br />‎
+<br />
+صرفاً جهت اطلاع شما، دیروز پایگاه‌های داده با موفقیت به صورت دستی به‌روزرسانی شدند.
+<br />
+/opt/drweb/update.pl<br />
+جزئیات به‌روزرسانی دکتر وب:<br />
+سرور به‌روزرسانی: <a href="http://update.geo.drweb.com/plesk/1100/unix" target="_blank" class="link link--external" rel="nofollow ugc noopener">http://update.geo.drweb.com/plesk/1100/unix</a>...<br />
+<br />
+<a href="https://talk.plesk.com/threads/error-dr-web-updater-failed-to-download-files-return-code-105.378167/" class="link link--internal">ادامه مطلب</a></div>]]></content:encoded>
+      <slash:comments>9</slash:comments>
+    </مورد>
+    <مورد>
+      <title>کلودفلر/پلسک با سرور خانگی</title>
+      <pubDate>سه‌شنبه، 10 ژوئن 2025، 0000+ 12:54:13</pubDate>
+      <link>https://talk.plesk.com/threads/cloudflare-plesk-with-home-server.377707/</link>
+      <guid isPermaLink="false">377707</guid>
+      <author>invalid@example.com (دیوو)</author>
+      <category domain="https://talk.plesk.com/forums/plesk-obsidian-for-linux.748/"><![CDATA[Plesk Obsidian for Linux]]></category>
+      <dc:creator>دیوئو</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">چگونه DNS کلودفلر را با پلسک تنظیم کنم و فقط از طریق کامپیوترهای داخلی (فقط شبکه خانگی خودم) به وب سرور و پنل پلسک دسترسی داشته باشم؟<br />
+<br />
+در پلسک، در حال حاضر موارد زیر را دارید...<br />
+<br />
+<b>برای همه دامنه‌ها/زیردامنه‌ها...</b><br />
+<i>دامنه > میزبانی/DNS > آپاچی و nginx</i><br />
+دسترسی به سایت را مسدود کنید: *<br />
+به جز: ۱۹۲.۱۶۸.x.۰/۲۴<br />
+<br />
+<b>برای پنل پلسک...</b><br />
+<i>ابزارها و تنظیمات >مدیریت محدودیت دسترسی به IP</i><br />
+از شبکه‌هایی که در فهرست نیستند، محروم شد<br />
+۱۲۷.۰.۰.۱<br />
+۱۹۲.۱۶۸.x.۰<br />
+<آی‌پی خارجی من...<br />
+<br />
+<a href="https://talk.plesk.com/threads/cloudflare-plesk-with-home-server.377707/" class="link link--internal">ادامه مطلب</a></div>]]></content:encoded>
+      <slash:comments>6</slash:comments>
+    </مورد>
+    <مورد>
+      <title>نمی‌توان فرآیند FTP را بست</title>
+      <pubDate>سه شنبه، 10 ژوئن 2025، 12:41:55 +0000</pubDate>
+      <link>https://talk.plesk.com/threads/cannot-close-ftp-process.378225/</link>
+      <guid isPermaLink="false">۳۷۸۲۲۵</guid>
+      <author>invalid@example.com (JuanCar)</author>
+      <category domain="https://talk.plesk.com/forums/plesk-obsidian-for-linux.748/"><![CDATA[Plesk Obsidian for Linux]]></category>
+      <dc:creator>JuanCar</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">وقتی این کار را انجام می‌دهم <br />
+ftptop<br />
+من دو خط می‌بینم<br />
+دستور PID S برای زمان کاربر، کلاینت و سرور <br />
+۲۵۴۱۹۰۹ من یک کاربر xxx.xxx.xxx.xxx هستم ::ffff:yyy.yyy.yyy.yyy:۲۱ ۲۶۸۰h۵ بیکار<br />
+۱۷۷۸۰۷۰ من کاربر دو هستم xxx.xxx.xxx.xxx ::ffff:yyy.yyy.yyy.yyy:۲۱ ۱ ساعت و ۲۰ دقیقه بیکار<br />
+اما این PID ها وجود ندارند. <br />
+این جلسات در رابط کاربری جلسه فعال FTP پلسک نمایش داده نمی‌شوند.<br />
+سعی کردم دوباره شروع کنم...<br />
+<br />
+<a href="https://talk.plesk.com/threads/cannot-close-ftp-process.378225/" class="link link--internal">ادامه مطلب</a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </مورد>
+    <مورد>
+      <title>هشدار الگوریتم ضعیف (DSA1024) برای مخازن Plesk در اوبونتو 24.04 LTS</title>
+      <pubDate>سه‌شنبه، 10 ژوئن 2025، 07:43:22 + 0000</pubDate>
+      <link>https://talk.plesk.com/threads/weak-algorithm-warning-dsa1024-for-plesk-repositories-on-ubuntu-24-04-lts.377576/</link>
+      <guid isPermaLink="false">۳۷۷۵۷۶</guid>
+      <author>invalid@example.com (LionKing)</author>
+      <category domain="https://talk.plesk.com/forums/plesk-obsidian-for-linux.748/"><![CDATA[Plesk Obsidian for Linux]]></category>
+      <dc:creator>شیرشاه</dc:creator>
